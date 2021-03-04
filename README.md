@@ -18,6 +18,13 @@ El objetivo de este proyecto es solucionar la siguiente serie:
    Si x = 5, y = 33
   
   ````
+Encontrarás también lo siguiente:
+* Cómo crear parametrizar tu aplicación mediante el uso de flags y proporcionar ayuda semejante a las man pages de Linux.
+* Cómo desacoplar loggers que envíen sus resultados a los streams estándares de Linux.
+* Cómo escribir los resultados de los streams estándares en un archivo.
+* Cómo asignar estos loggers a una estructura para que puedas aplicar inyección de dependencias.
+* Cómo crear una tabla de testing para evitar la creación de pruebas innecesarias.
+
 ## Indice
 1. Requisitos.
 2. Cómo ejecutar.
